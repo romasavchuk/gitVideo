@@ -7,3 +7,5 @@ println ("$sum is the sum of two numbers")
 def average = sum / 2
 
 println("$average is the average")
+
+println("adding new line")
