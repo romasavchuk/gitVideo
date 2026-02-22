@@ -9,3 +9,9 @@ def average = sum / 2
 println("$average is the average")
 
 println("adding new line")
+
+//new feature 1
+println ("New feature 1")
+
+//second feature
+println("Second feature")
